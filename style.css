@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    color: rgb(31, 141, 237);
+    text-align: center;
+}
+.ol{
+font-size: 30px;
+background-color: rgb(95, 169, 234);
+margin-top: 15px;
+outline-style: hidden;
+padding: 2px;
+}
+button{
+    font-size: 40px;
+    background-color: rgb(199, 191, 178);
+}
